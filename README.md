@@ -32,7 +32,6 @@
   
   <img title="ExpressJS" height="25" src="https://res.cloudinary.com/dkevcmz3i/image/upload/b_rgb:ffffff/v1620506334/Personal/Github%20front%20readme/expressjs_dblcrv.png">
   
-  <img title="HTML5" height="25" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506334/Personal/Github%20front%20readme/html5_iqjlja.svg">
   
   <img title="SASS" height="25" src="https://upload.wikimedia.org/wikipedia/commons/9/96/Sass_Logo_Color.svg">
   
