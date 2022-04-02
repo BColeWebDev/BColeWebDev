@@ -51,10 +51,10 @@
 <h2 align="center">I’m currently learning 🌱</h2>
 <p align=center>
 
- 
- <img title="Svelte" height="25" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg">
- 
- 
+  BlockChain Development 
+  Web 3.0 Blockchain Development
+  Infrastructure as Code
+  
 </p>
 <div style="display:flex;">
 <p align=center>
