@@ -3,7 +3,7 @@
 <p align="center">
   Hi, I'm Brian Cole, I am a Full-Stack Developer
   <br>
-  🎓 I started my learning development at  <a href="https://www.fullsail.edu/">Fullsail University</a>, to become a MERN Full-Stack developer.
+  🎓 I started my learning development at  <a href="https://www.fullsail.edu/">Fullsail University</a>, to become a Full-Stack developer.
   <br>
   💻 I love writing code and learning new technologies.
   <br>
@@ -45,11 +45,12 @@
   <img title="Visual Studio Code" height="25" src="https://res.cloudinary.com/dkevcmz3i/image/upload/v1620506338/Personal/Github%20front%20readme/vscode_b9dlo8.svg">
   
 <img title="NextJS" height="25" src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg">
+ <img title="Python" height="25" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
+ 
 <hr>
 <h2 align="center">I’m currently learning 🌱</h2>
 <p align=center>
 
- <img title="Python" height="25" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg">
  
  <img title="Svelte" height="25" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg">
  
