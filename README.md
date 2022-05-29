@@ -49,7 +49,7 @@
  
 <hr>
 <h2 align="center">I’m currently learning 🌱</h2>
-<p align=center>
+<p align=center display=flex>
 
   BlockChain Development 
   Web 3.0 Blockchain Development
