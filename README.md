@@ -3,13 +3,13 @@
 <p align="center">
   Hi, I'm Brian Cole, I am a Full-Stack Developer
   <br>
-  🎓 I started my learning development at  <a href="https://www.fullsail.edu/">Fullsail University</a>, to become a Full-Stack developer.
+  🎓 I started my learning development at <a href="https://www.fullsail.edu/">Fullsail University</a>, to become a Full-Stack developer.
   <br>
   💻 I love writing code and learning new technologies.
   <br>
   📚 I’m constantly learning Web Development. HTML, CSS and JavaScript. Also learning NodeJS, ExpressJS and MongoDB. 
   <br>
-  💬 Ask me anything about from <a href="https://github.com/Silinde87/silinde87/issues" title="Issues">Here</a>
+  💬 I currently work as a Front End Developer at Earthcam Inc.
   <br>
   📫 How to reach me: <a href="mailto: briancole1994@hotmail.com">briancole1994@hotmail.com</a>
   
