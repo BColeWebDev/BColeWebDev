@@ -49,12 +49,11 @@
  
 <hr>
 <h2 align="center">I’m currently learning 🌱</h2>
-<p align="center" display="flex" flexDirection="column">
-
-  BlockChain Development 
-  Web 3.0 Blockchain Development
-  Mobile Development
-</p>
+<div align="center" display="flex" flexDirection="column">
+  <p>BlockChain Development</p>
+  <p>Web 3.0 Blockchain Development</p>
+  <p>Mobile Development</p>
+</div>
 <div style="display:flex;">
 <p align=center>
   <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
