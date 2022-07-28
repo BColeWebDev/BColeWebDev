@@ -54,7 +54,7 @@
   <p>Web 3.0 Blockchain Development</p>
   <p>Mobile Development</p>
   
-  <img title="Angular" height="25" src=https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg">
+  <img title="Angular" height="25" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg">
 </div>
 <div style="display:flex;">
 <p align=center>
